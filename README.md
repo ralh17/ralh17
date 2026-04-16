@@ -44,7 +44,7 @@ Hola, soy **Rafael**. Un ingeniero enfocado en construir aplicaciones de alto re
 ### 📊 Actividad y Estadísticas
 *Nota: Mi actividad diaria se concentra principalmente en entornos privados corporativos.*
 
-![Estadísticas de Rafael](https://github-readme-stats.vercel.app/api?username=ralh17&show_icons=true&theme=tokyonight&hide_border=true)
+![Estadísticas de Rafael](https://github-readme-stats.vercel.app/api?username=ralh17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ralh17&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
