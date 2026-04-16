@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=1a1b27&height=200&section=header&text=Rafael&fontSize=90&animation=fadeIn&fontAlignY=38&theme=tokyonight" />
-</p>
+
 
 ## 🚀 Fullstack Engineer & Software Architect
 
-Hola, soy **Rafael**. Un ingeniero enfocado en construir aplicaciones de alto rendimiento, escalables y con arquitecturas limpias. Mi experiencia abarca desde el diseño de la interfaz hasta la orquestación de la infraestructura en la nube.
+Hola, soy **Rafael Arrieta**. Un ingeniero enfocado en construir aplicaciones de alto rendimiento, escalables y con arquitecturas limpias. Mi experiencia abarca desde el diseño de la interfaz hasta la orquestación de la infraestructura en la nube.
 
 ---
 
