@@ -71,4 +71,4 @@ Hola, soy **Rafael**. Un ingeniero enfocado en construir aplicaciones de alto re
 ### 📫 Conectemos
 ¿Tienes un reto técnico o un proyecto interesado en arquitecturas sólidas? ¡Hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaarrieta)
